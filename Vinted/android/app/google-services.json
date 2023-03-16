@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376465994540",
+    "project_id": "fir-auth-b4d5b",
+    "storage_bucket": "fir-auth-b4d5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376465994540:android:548c8b87fe08eae81f7289",
+        "android_client_info": {
+          "package_name": "com.example.vinted.vinted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376465994540-qhqv7s93cbe0v0tln6h4keidk52sl82d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiSpBVNQrtLh0YShGFqRYf6Yr4LVRIPEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376465994540-qhqv7s93cbe0v0tln6h4keidk52sl82d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
